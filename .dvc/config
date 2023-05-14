@@ -1,0 +1,4 @@
+[core]
+    remote = default
+['remote "default"']
+    url = gdrive://1B-fOZk44-LrZTDH2prwKPcZnm1ePYi8C

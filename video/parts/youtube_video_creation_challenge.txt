@@ -1,0 +1,4 @@
+file '2_5_youtube_cost.mp4'
+file 'youtube_pay_per_1k_view.mp4'
+file 'review_youtube_on_AI_impact.mp4'
+file 'youtube_spreadsheet.mp4'

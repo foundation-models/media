@@ -1,0 +1,5 @@
+file 'neural networks are stateless.mkv'
+file 'context size of chatgpt.mkv'
+file 'context is important for llm.mkv'
+file 'training or fine tuning llm is very costly.mkv'
+file 'zero shot leanring and translation.mkv'

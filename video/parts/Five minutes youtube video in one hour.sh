@@ -1,1 +1,8 @@
+dvc pull "Can you make a living out of creating a YouTube video.mkv"
+dvc pull "ask bard How much 2-5 minutes high quality youtube video cost.mkv"
+dvc pull "How much YouTube pay for 1,000 views.mkv"
+dvc pull "plug into spreadsheet and calculate going from 5K to 100 dollar.mkv"
+dvc pull "How long does it take for a youtube video to get views.mkv"
+dvc pull "show the tricks in the next 5 to 10 videos.mkv"
 ffmpeg -f concat -safe 0 -i "Five minutes youtube video in one hour.txt" -c copy "Five minutes youtube video in one hour.mkv"
+ffmpeg -i "Five minutes youtube video in one hour.mkv" -codec copy "Five minutes youtube video in one hour.mp4"

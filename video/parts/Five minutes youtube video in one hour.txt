@@ -1,0 +1,7 @@
+file 'Can you make a living out of creating a YouTube video.mkv'
+file 'ask bard How much 2-5 minutes high quality youtube video cost.mkv'
+file 'How much YouTube pay for 1,000 views.mkv'
+file 'plug into spreadsheet and calculate going from 5K to 100 dollar.mkv'
+file 'How long does it take for a youtube video to get views.mkv'
+file 'show the tricks in the next 5 to 10 videos.mkv'
+

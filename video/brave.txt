@@ -1,0 +1,8 @@
+file 'parts/not your cup of tea for perfectionist.mkv'
+file 'parts/not an art result of engineering and techniques.mkv'
+file 'parts/people may redicule you.mkv'
+file 'parts/reading scripts generated from ChatGPT.mkv'
+file 'parts/essential to maintatin resilient mindset.mkv'
+file 'parts/stay confident.mkv'
+file 'parts/act as a proxie just like movie her.mkv'
+file 'parts/eight techniques.mkv'

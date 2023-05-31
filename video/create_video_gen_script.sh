@@ -8,5 +8,7 @@ then
 else
     # sh $1.pull.sh
     # ffmpeg -f concat -safe 0 -i "$1.txt" -c copy "$1.mkv"
-    ffmpeg -i "$1.mkv" -codec copy "$1.mp4"
+    ffmpeg -f concat -i "$1.txt" -vcodec copy -acodec copy merged.MOV
+    # ffmpeg -f concat -i files_to_combine.txt -vcodec copy -acodec copy merged.MOV
+    # ffmpeg -i "$1.mkv" -codec copy "$1.mp4"
 fi

@@ -1,0 +1,8 @@
+file 'parts/IMG_0718.MOV'
+file 'parts/IMG_0719.MOV'
+file 'parts/IMG_0720.MOV'
+file 'parts/IMG_0721.MOV'
+file 'parts/IMG_0722.MOV'
+file 'parts/IMG_0723.MOV'
+file 'parts/IMG_0725.MOV'
+file 'parts/IMG_0727.MOV'
